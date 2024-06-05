@@ -4,17 +4,24 @@
  */
 package exercicio_4_.numero_de_eleitores;
 
-/**
- *
- * @author geovane_gonzatto
- */
+import java.util.Scanner;
+
+
 public class Exercicio_4_Numero_de_eleitores {
 
-    /**
-     * @param args the command line arguments
-     */
+
     public static void main(String[] args) {
-        // TODO code application logic here
+  
+    Scanner s = new Scanners(System.in);
+   Int TotalEleitores = s.nextInt();
+                
+                sistem.out.println("Digite o total de eleitores")   
+                        
+                
+               
+        
+        
+        
     }
     
 }
