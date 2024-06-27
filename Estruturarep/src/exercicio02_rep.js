@@ -1,7 +1,5 @@
 // Faça um programa que leia um número e mostre os números de do valor informado até
 
-
-
 import leia from "readline-sync"
 
 var numero = leia.questionFloat("Digite um numero")
